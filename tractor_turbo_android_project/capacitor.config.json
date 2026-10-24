@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.tractorturbo",
+  "appName": "Трактор-турбо",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}

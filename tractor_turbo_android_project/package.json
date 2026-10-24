@@ -1,0 +1,16 @@
+{
+  "name": "tractor-turbo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Трактор-турбо — Android wrapper for the HTML game",
+  "scripts": {
+    "build:android": "npx cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.2.1",
+    "@capacitor/core": "^6.2.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.2.1"
+  }
+}
